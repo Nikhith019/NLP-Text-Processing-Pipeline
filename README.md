@@ -12,7 +12,7 @@ CRN  : 23849
 
 ## Explanation of tasks
 
-Task 1: NLP Preprocessing Pipeline
+## Task 1: NLP Preprocessing Pipeline
 
 Steps: Tokenize → Remove Stopwords → Apply Stemming
 
@@ -25,7 +25,7 @@ After Stopwords: ['NLP', 'techniques', 'used', ...]
 
 After Stemming: ['NLP', 'techniqu', 'use', ...]
 
-Task 2:Named Entity Recognition (NER) with SpaCy
+## Task 2:Named Entity Recognition (NER) with SpaCy
 
 NER detects entities like people, places, dates.
 
@@ -41,7 +41,7 @@ Nobel Peace Prize → WORK_OF_ART/
 
 2009 → DATE
 
-Task3 : Scaled Dot-Product Attention/
+## Task3 : Scaled Dot-Product Attention/
 
 Steps: Q·Kᵀ → Scale by √d → Softmax → Multiply by V
 
@@ -52,7 +52,7 @@ Attention Weights: Shows focus of each word
 
 Output: Weighted sum of values (V)
 
-Task4 : Sentiment Analysis with Transformers
+## Task4 : Sentiment Analysis with Transformers
 
 Tool: HuggingFace pipeline("sentiment-analysis")
 
@@ -63,6 +63,7 @@ Input:
 Output:
 
 Label: POSITIVE
+
 
 Confidence: ~0.999
 
