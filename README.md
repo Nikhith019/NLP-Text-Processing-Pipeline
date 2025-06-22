@@ -1,13 +1,3 @@
-# Neural_Home_Assignment-4
-
-##Student Details
-
-Name : Nikhith Raju Konduru
-
-700# : 700756171
-
-CRN  : 23849
-
 ## To run the files clones this repo and run in a python ide with necessary libraries
 
 ## Explanation of tasks
@@ -64,9 +54,4 @@ Output:
 
 Label: POSITIVE
 
-
 Confidence: ~0.999
-
-## Video link
-https://drive.google.com/file/d/1o8nUK21lnbc7erTf2qc9G7npw6TAobOI/view?usp=share_link
-
